@@ -28,14 +28,14 @@
 ## Apartado 4
 
 [ref](src/ref).
-![ref](media/recolectar.gif)
+![ref](media/teleport.gif)
 
 ---
 
 ## Apartado 5
 
 [ref](src/ref).
-![ref](media/otro.gif)
+![ref](media/recolectar.gif)
 
 ---
 
